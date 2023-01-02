@@ -1,6 +1,7 @@
 version: '3.9'
 
 services:
+# tạo các container
   mysql:
     image: mysql
     container_name: node26-mysql
